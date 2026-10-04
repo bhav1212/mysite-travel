@@ -1,4 +1,6 @@
-User-agent: *
+User-Agent: *
 Allow: /
 
+Sitemap: https://bhaveshjain.com/sitemap.xml
+Sitemap: https://blog.bhaveshjain.com/sitemap.xml
 Sitemap: https://travel.bhaveshjain.com/sitemap.xml

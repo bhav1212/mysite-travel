@@ -1,87 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://travel.bhaveshjain.com/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/alps-road-trip</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/belgium-brussels</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/croatia-november</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/france-paris</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/india-hometown</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/maldives-atolls</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/netherlands-amsterdam</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/norway-fjords</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/prague-winter</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/singapore-stopover</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/switzerland-alps</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/thailand-bangkok</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://travel.bhaveshjain.com/uae-dubai</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+<url>
+<loc>https://travel.bhaveshjain.com/</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/prague-winter</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/alps-road-trip</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/india-hometown</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/croatia-november</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/norway-fjords</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/switzerland-alps</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/netherlands-amsterdam</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/belgium-brussels</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/maldives-atolls</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/uae-dubai</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/thailand-bangkok</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/singapore-stopover</loc>
+</url>
+<url>
+<loc>https://travel.bhaveshjain.com/france-paris</loc>
+</url>
 </urlset>
